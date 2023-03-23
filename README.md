@@ -2,6 +2,8 @@
 
 [Paper Link](arxivlink)
 
+Authors: [Muhammad Akhtar Munir](https://scholar.google.com.pk/citations?user=sT-epZAAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com.pk/citations?user=ZgERfFwAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en)
+
 This paper is accepted at CVPR 2023 and this repositoy contains the PyTorch implementation.
 
 ## Abstract
@@ -12,3 +14,37 @@ Deep neural networks (DNNs) have enabled astounding progress in several vision-b
 Reliability Diagrams: Selected classes from MS-COCO (In-Domain) and CorCOCO (Out-Domain). Top: Baseline trained as D-DETR and Bottom: D-DETR trained with our proposed BPC loss.
 
 ## Setup
+
+Requirements: This implementation is on:
+
+Linux, CUDA>=11.0
+
+Python>=3.7
+
+PyTorch>=1.7.0
+
+## Installation, Training and Evaluation
+
+For complete Installation, Training and Evaluation commands, follow guidelines [here](https://github.com/fundamentalvision/Deformable-DETR#installation)
+
+
+
+## Citation
+
+Please cite the following, if you find this work useful in your research:
+```bibtex
+@InProceedings{munirs_bpc_CVPR23,
+    author    = {Munir, Muhammad Akhtar and Khan, Muhammad Haris and Khan, Salman and Khan, Fahad Shahbaz},
+    title     = {Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {},
+    year      = {2023},
+    pages     = {}
+}
+```
+
+## Contact
+In case of any query, create issue or contact akhtar.munir@mbzuai.ac.ae 
+
+## Acknowledgement
+This codebase is built on <a href="https://github.com/fundamentalvision/Deformable-DETR">Deformable-DETR</a>
