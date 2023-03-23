@@ -16,17 +16,15 @@ Reliability Diagrams: Selected classes from MS-COCO (In-Domain) and CorCOCO (Out
 ## Results
 
 ### BPC calibration loss comparison with baseline, post-hoc and other train-time calibration losses
-Results report Detection Expected Calibration Error (D-ECE) for In-Domain (ID) and Out-Domain (OD).
+Results report Detection Expected Calibration Error (D-ECE) for In-Domain (MS-COCO) and Out-Domain (CorCOCO).
 
-| Methods                                                      | D-ECE (ID) | APbox (ID) |    D-ECE (OD)    | APbox (OD) | model | 
+| Methods                                                      | D-ECE (MS-COCO) | APbox (MS-COCO) |    D-ECE (CorCOCO)    | APbox (CorCOCO) | model | 
 |--------------------------------------------------------------|:---------:|:----------:|:---------:|:------:|:------:|
 | [Baseline](https://arxiv.org/abs/2010.04159)                 |   12.8   |   44.0    |   10.8   |   23.9    |      |
 | [Temp. Scaling](https://arxiv.org/abs/1706.04599)            |   14.2   |   44.0    |   12.3   |   23.9   |     |
 | [MDCA](https://arxiv.org/abs/2203.13834)                     |   12.2   |   44.0    |   11.1   |   23.5   |     |
 | [MbLS](https://arxiv.org/abs/2111.15430)                     |   15.7   |   44.4    |   12.4   |   23.5    |      |
 | [BPC (Ours)](arXiv)                                          |   **10.3**   |   43.7    |   **9.4**    |   23.2    |      |
-
-Table shows results reported on COCO In-Domain (MS-COCO) and Out-Domain (CorCOCO).
 
 
 ## Setup
