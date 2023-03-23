@@ -47,4 +47,5 @@ Please cite the following, if you find this work useful in your research:
 In case of any query, create issue or contact akhtar.munir@mbzuai.ac.ae 
 
 ## Acknowledgement
-This codebase is built on <a href="https://github.com/fundamentalvision/Deformable-DETR">Deformable-DETR</a>
+This codebase is built on <a href="https://github.com/fundamentalvision/Deformable-DETR">Deformable-DETR</a> and <a href="https://github.com/rafaelpadilla/Object-Detection-Metrics">Object Detection Metrics</a>
+
