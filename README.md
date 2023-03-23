@@ -71,13 +71,11 @@ Config file and pretrained model available in the above section of Results, run 
 
 Please cite the following, if you find this work useful in your research:
 ```bibtex
-@InProceedings{munirs_bpc_CVPR23,
-    author    = {Munir, Muhammad Akhtar and Khan, Muhammad Haris and Khan, Salman and Khan, Fahad Shahbaz},
-    title     = {Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {},
-    year      = {2023},
-    pages     = {}
+@article{munir2023bridging,
+  title={Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection},
+  author={ Munir, Muhammad Akhtar and Khan, Muhammad Haris and Khan, Salman and Khan, Fahad},
+  journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2023}
 }
 ```
 
