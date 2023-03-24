@@ -20,11 +20,11 @@ Results report Detection Expected Calibration Error (D-ECE) for In-Domain (MS-CO
 
 | Methods                                                      | D-ECE (MS-COCO) | APbox (MS-COCO) |    D-ECE (CorCOCO)    | APbox (CorCOCO) | model | 
 |--------------------------------------------------------------|:---------:|:----------:|:---------:|:------:|:------:|
-| [Baseline](https://arxiv.org/abs/2010.04159)                 |   12.8   |   44.0    |   10.8   |   23.9    | [link](link)     |
+| [Baseline](https://arxiv.org/abs/2010.04159)                 |   12.8   |   44.0    |   10.8   |   23.9    | [link](https://drive.google.com/file/d/1q45sjir00jcTDgYf1zrGWyiAy8MQT9JF/view?usp=share_link)     |
 | [Temp. Scaling](https://arxiv.org/abs/1706.04599)            |   14.2   |   44.0    |   12.3   |   23.9   |  -   |
-| [MDCA](https://arxiv.org/abs/2203.13834)                     |   12.2   |   44.0    |   11.1   |   23.5   |   [link](link)  |
-| [MbLS](https://arxiv.org/abs/2111.15430)                     |   15.7   |   44.4    |   12.4   |   23.5    |  [link](link)    |
-| [BPC (Ours)](arXiv)                                          |   **10.3**   |   43.7    |   **9.4**    |   23.2    |   [link](link)   |
+| [MDCA](https://arxiv.org/abs/2203.13834)                     |   12.2   |   44.0    |   11.1   |   23.5   |   [link](https://drive.google.com/file/d/1CsXpzU55fMKrQzQ6EUmkZAGmzgo60eTE/view?usp=share_link)  |
+| [MbLS](https://arxiv.org/abs/2111.15430)                     |   15.7   |   44.4    |   12.4   |   23.5    |  [link](https://drive.google.com/file/d/1U_-5QK036hCskMXeUMkSTc98iTg1fkR8/view?usp=share_link)    |
+| [BPC (Ours)](arXiv)                                          |   **10.3**   |   43.7    |   **9.4**    |   23.2    |   [link](https://drive.google.com/file/d/15JX77MfXoLRPLbzekTfbcevigfz_GDoO/view?usp=share_link)   |
 
 
 ## Setup
