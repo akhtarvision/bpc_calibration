@@ -1,6 +1,6 @@
 # [CVPR 2023] Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection
 
-[Paper Link](arxivlink)
+[Paper Link](https://arxiv.org/abs/2303.14404)
 
 Authors: [Muhammad Akhtar Munir](https://scholar.google.com.pk/citations?user=sT-epZAAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com.pk/citations?user=ZgERfFwAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en)
 
@@ -67,6 +67,10 @@ Config file and pretrained model available in the above section of Results, run 
 <path to config file> --resume <path to pre-trained model> --eval
 ```
 
+### D-ECE Evaluation
+
+For Detection Expected Calibration Error ([D-ECE](https://github.com/EFS-OpenSource/calibration-framework#detection-confidence-of-objects)) evaluation, follow the guidelines [here](https://pypi.org/project/netcal/)
+
 ## Citation
 
 Please cite the following, if you find this work useful in your research:
@@ -83,5 +87,6 @@ Please cite the following, if you find this work useful in your research:
 In case of any query, create issue or contact akhtar.munir@mbzuai.ac.ae 
 
 ## Acknowledgement
-This codebase is built on <a href="https://github.com/fundamentalvision/Deformable-DETR">Deformable-DETR</a> and <a href="https://github.com/rafaelpadilla/Object-Detection-Metrics">Object Detection Metrics</a>
+This codebase is built on <a href="https://github.com/fundamentalvision/Deformable-DETR">Deformable-DETR</a>, <a href="https://github.com/rafaelpadilla/Object-Detection-Metrics">Object Detection Metrics</a> and <a href="https://pypi.org/project/netcal/">Detection Calibration</a>
+
 
