@@ -1,6 +1,6 @@
 # [CVPR 2023] Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection
 
-[Paper Link](https://arxiv.org/abs/2303.14404)  |   [Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202023/21407.png?t=1685622519.7883482)  |   [Video](https://www.youtube.com/watch?v=qsY2m0WOoiE)
+[Paper (arXiv)](https://arxiv.org/abs/2303.14404)  |   [Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202023/21407.png?t=1685622519.7883482)  |   [Video](https://www.youtube.com/watch?v=qsY2m0WOoiE)   |   [Paper (CVPR)](https://openaccess.thecvf.com/content/CVPR2023/papers/Munir_Bridging_Precision_and_Confidence_A_Train-Time_Loss_for_Calibrating_Object_CVPR_2023_paper.pdf)
 
 Authors: [Muhammad Akhtar Munir](https://scholar.google.com.pk/citations?user=sT-epZAAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com.pk/citations?user=ZgERfFwAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en)
 
